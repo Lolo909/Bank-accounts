@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadacha 17 01 2024 Bankova smetki/1.0.0": {
+        "runtime": {
+          "Zadacha 17 01 2024 Bankova smetki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadacha 17 01 2024 Bankova smetki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

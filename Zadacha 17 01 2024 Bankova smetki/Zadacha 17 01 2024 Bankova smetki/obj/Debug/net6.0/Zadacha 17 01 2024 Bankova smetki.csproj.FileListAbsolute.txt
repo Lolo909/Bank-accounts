@@ -1,0 +1,15 @@
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\bin\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.exe
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\bin\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.deps.json
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\bin\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.runtimeconfig.json
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\bin\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.dll
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\bin\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.pdb
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.csproj.AssemblyReference.cache
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.AssemblyInfoInputs.cache
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.AssemblyInfo.cs
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.csproj.CoreCompileInputs.cache
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.dll
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\refint\Zadacha 17 01 2024 Bankova smetki.dll
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.pdb
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\Zadacha 17 01 2024 Bankova smetki.genruntimeconfig.cache
+C:\Users\Arnaudov\source\repos\Zadacha 17 01 2024 Bankova smetki\Zadacha 17 01 2024 Bankova smetki\obj\Debug\net6.0\ref\Zadacha 17 01 2024 Bankova smetki.dll
